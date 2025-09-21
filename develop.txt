@@ -1,5 +1,5 @@
 <<<<<<< HEAD
- text from main
+ text from Main
 =======
- text from main
+ text from Main
 >>>>>>> 12419f3 (  change in main branch)
