@@ -1,7 +1,1 @@
-<h1>Заголовк</h1>
-<p>page<p>
-<p>Пустий</p>
- text1
-text3
-new text1
-new text3
+by roma for 1 commit
